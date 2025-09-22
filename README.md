@@ -1,4 +1,2 @@
 # colaborativo
-Pon aquí tu nombre
-
-Ivan Naranjo
+Abel Plaza Caro
