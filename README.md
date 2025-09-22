@@ -1,5 +1,6 @@
 # colaborativo
 Pon aquí tu nombre
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,7 @@ Pon aquí tu nombre
 
 
 Fernando Garcia
+=======
+Fernando García
+>>>>>>> 9124918 (Commit Fernando)
+ 
