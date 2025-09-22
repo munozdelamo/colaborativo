@@ -2,6 +2,8 @@
 # colaborativo
 Pon aquí tu nombre
 
+Carlos
+=======
 Miguel Ángel Lara Donoso
 =======
 
@@ -20,5 +22,4 @@ Ivan Naranjo
 Alex
 Abel Plaza Caro
 Rodrigo
-
 
