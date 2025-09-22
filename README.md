@@ -1,9 +1,6 @@
-# colaborativo
-<<<<<<< HEAD
-Pon aquí tu nombre
+# Colaborativo
+
 Noelia Abaldea
 Ivan Naranjo
 Alex
-=======
 Abel Plaza Caro
->>>>>>> AbelPlaza
